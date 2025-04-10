@@ -11,6 +11,14 @@ h1 {
   font-size: 2em;
   color: #333;
 }
+h2 {
+  font-size: 2em;
+  color: #333;
+}
+h3 {
+  font-size: 2em;
+  color: #333;
+}
 
 .hidden {
   display: none;
