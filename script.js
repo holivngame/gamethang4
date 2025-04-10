@@ -3,9 +3,9 @@ let currentPage = 1;
 
 // Các mật khẩu cho từng trang
 const correctPassword = {
-  1: "sondinh12",
-  2: "sondinh23",
-  3: "sondinh34"
+  1: "holivn",
+  2: "vuonminhdoimoi",
+  3: "butpha5nam"
 };
 
 // Hàm chuyển trang
