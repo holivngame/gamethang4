@@ -57,7 +57,7 @@ button:hover {
 
 /* Ảnh nhỏ trên các trang */
 .small-banner {
-  max-width: 600px;
+  max-width: 400px;
   margin-bottom: 15px;
   display: block;
   margin-left: auto;
